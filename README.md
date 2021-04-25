@@ -1,3 +1,3 @@
 <div align="center">
-	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Focus on Web!">
+	<img src="https://cdn2.scratch.mit.edu/get_image/gallery/27436500_200x130.png" alt="Focus on Web!">
 </div>
