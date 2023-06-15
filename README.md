@@ -23,7 +23,7 @@
 
 </p>
 
-**Backend Developer (maybe)**
+**Backend Developer (Learning)**
 
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
